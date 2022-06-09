@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @parth-kp [ https://parths-portfolio.netlify.app/ ]
-- 👀 I’m interested in Java, WebDev, AppDev && DevOps
-- 🌱 I’m currently learning WebDev 
-- 💞️ I’m looking to collaborate on AppDev || DevOps
-- 📫 How to reach me parthkp13@gmail.com
+<h1 align="center">Hi 👋, I'm Parth Patel</h1>
+- 💼 https://parths-portfolio.netlify.app/   </br>
+- 👀 I’m interested in <b>Java, WebDev, AppDev && OpenSource </b> </br>
+- 🌱 I’m currently learning WebDev  </br>
+- 💞️ I’m looking to collaborate on Java || AppDev </br>
 
-<!---
-parth-kp/parth-kp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">📫 How to reach me </h3>
+<a href="mailto:parthkp13@gmail.com"  target="blank">My Email</a></br>
+
+
